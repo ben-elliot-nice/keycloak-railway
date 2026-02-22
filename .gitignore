@@ -1,0 +1,4 @@
+keywind.jar
+*.log
+.env
+*.md
